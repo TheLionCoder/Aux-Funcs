@@ -9,3 +9,7 @@ matrices and many more.
 In order to install required packages please run the next command line inside your project folder.
 
 `pip install -r requirements.txt -v`
+
+In order to run inside Jupyter Notebooks:
+
+`%run"folder path`
